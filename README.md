@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This mini-project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Got a startup idea but confused with what to name it?
 Namephase the answer!
