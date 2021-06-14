@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Got a startup idea but confused with what to name it?
+Namephase the answer!
+
 ## Available Scripts
 
 In the project directory, you can run:
